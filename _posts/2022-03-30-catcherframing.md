@@ -1,5 +1,5 @@
 ---
-title: "Collegiate Catcher Framing"
+title: Collegiate Catcher Framing
 date: 2022-03-30
 ---
 
